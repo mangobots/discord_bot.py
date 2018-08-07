@@ -1,9 +1,0 @@
-git+https://github.com/Rapptz/discord.py@rewrite
-
-psutil
-
-asyncio
-
-yarl<1.2
-
-pytz
